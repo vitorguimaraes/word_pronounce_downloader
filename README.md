@@ -1,3 +1,3 @@
-# Word Pronunciation Downloader
+# Word Pronunciation Downloader 🇬🇧|🇺🇸
 
-A simple audio downloader for english words [🇬🇧 accent | 🇺🇸 accent]
+A simple audio downloader for english words 
